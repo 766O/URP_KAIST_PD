@@ -18,5 +18,10 @@ SSD 기반 Pedestraian Detection
 
 # Example Image
 
-![image](https://github.com/766O/URP_KAIST_PD/assets/121467486/adbad99c-18ad-4dff-8d9d-6cecd6f51f6d)
+- Day
+![image](https://github.com/766O/URP_KAIST_PD/assets/121467486/680834e9-add3-4152-b1d1-411f7f6e9fcf)
+
+- Night
+![image](https://github.com/766O/URP_KAIST_PD/assets/121467486/b9ac9513-79f3-4f1d-930a-8bd67c512ba7)
+
 
