@@ -16,6 +16,18 @@ SSD 기반 Pedestraian Detection
 | Baseline_RGB | 34.78 | 32.15 | 40.94 | 77.23 |
 | Baseline_Thermal | 31.38 | 37.76 | 17.83 | 81.70 |
 
+
+#
+
+### 2.Halfway fusion model
+| Model | MR(all) | MR(day) | MR(night) | Recall |
+| :-----: | :---: | :---: | :---: | :---: |
+| Halfwayfusion+bn | 21.85 | 20.66 | 24.29 | 86.45 |
+
+![image](https://github.com/766O/URP_KAIST_PD/assets/121467486/13e9557b-f78b-40fb-92bc-30d2235f9364)
+
+
+
 # Example Image
 
 - Day
